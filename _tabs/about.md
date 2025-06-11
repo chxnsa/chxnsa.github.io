@@ -73,13 +73,24 @@ const chxnsa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chxnsa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxnsa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chxnsa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="Chxnsa's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxnsa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chxnsa&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chxnsa&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" alt="GitHub Streak Stats"/>
 </div>
+
+---
+
+## 🎯 Current Projects & Goals
+
+| 🎯 Focus Area | 📋 Current Status | 🚀 Next Steps |
+|:-------------|:------------------|:---------------|
+| Library Management System | 🟡 In Development | Add advanced search features |
+| Machine Learning Models | 🟢 Active Learning | Deploy ML pipelines |
+| Algorithm Mastery | 🟡 Practicing Daily | Competitive programming |
+| Open Source | 🟢 Contributing | Launch personal project |
 
 ---
 
@@ -107,7 +118,7 @@ const chxnsa = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chxnsa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chxnsa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Profile Trophies"/>
 </div>
 
 ---
