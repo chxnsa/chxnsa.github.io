@@ -1,5 +1,7 @@
 # Fractional Knapsack Problem - Rangkuman Materi
 
+---
+
 ## Definisi Fractional Knapsack
 
 **Fractional Knapsack** adalah varian dari masalah knapsack (ransel) dalam algoritma, di mana kita boleh mengambil sebagian dari suatu item (misalnya setengah, seperempat, dsb.) untuk memaksimalkan nilai total barang dalam kapasitas ransel tertentu.
@@ -172,3 +174,5 @@ Sebuah tas memiliki kapasitas maksimum **50 kg**. Tersedia 3 barang:
 - **Efisiensi waktu** yang baik
 - **Aplikabilitas luas** dalam masalah optimasi resource allocation
 - **Implementasi mudah** dengan logika greedy yang intuitif
+
+---

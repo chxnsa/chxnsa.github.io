@@ -1,5 +1,7 @@
 # Huffman Coding - Rangkuman Materi
 
+---
+
 ## Pendahuluan
 
 **Huffman Coding** adalah algoritma kompresi data lossless yang dikembangkan oleh David A. Huffman pada tahun 1952. Algoritma ini menggunakan pendekatan greedy untuk membangun kode optimal yang meminimalkan rata-rata panjang kode untuk setiap karakter berdasarkan frekuensi kemunculannya.
@@ -277,3 +279,5 @@ Class HuffmanCoder:
 - **Trade-off**: Kompleksitas tambahan vs efisiensi kompresi
 
 Huffman Coding tetap relevan dan penting dalam era digital modern, terutama dalam aplikasi yang memerlukan kompresi data yang efisien dan dapat diandalkan.
+
+---

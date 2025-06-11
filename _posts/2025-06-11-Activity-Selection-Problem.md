@@ -1,5 +1,7 @@
 # Activity Selection Problem (ASP) - Rangkuman Materi
 
+---
+
 ## Definisi Activity Selection Problem (ASP)
 
 **Activity Selection Problem (ASP)** adalah masalah klasik dalam ilmu komputer yang bertujuan untuk memilih serangkaian aktivitas yang dapat dilakukan dalam satu periode waktu, dengan batasan bahwa aktivitas-aktivitas tersebut tidak boleh tumpang tindih.
@@ -96,3 +98,5 @@ Activity Selection Problem (ASP) adalah masalah optimasi yang sangat umum dalam 
 - Manajemen sumber daya terbatas
 
 Pendekatan greedy untuk ASP memberikan solusi optimal dengan implementasi yang sederhana dan efisien, menjadikannya pilihan yang sangat baik untuk masalah penjadwalan dalam berbagai konteks.
+
+---
